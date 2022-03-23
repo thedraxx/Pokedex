@@ -13,7 +13,7 @@
 👽 Javascript
 👽 Sass
 👽 HTML5
-
+👽 API: POKEAPI
 
 ```
 ## 🔮 Future of this project 
